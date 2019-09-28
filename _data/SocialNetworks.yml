@@ -6,19 +6,24 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
+facebook:
+  name: "Facebook"
+  baseURL: "https://www.facebook.com/"
+  icon: "fa-facebook"
+
 github:
   name: "GitHub"
-  baseURL: "https://github.com/chainchomp7"
+  baseURL: "https://github.com/"
   icon: "fa-github"
 
 twitter:
   name: "Twitter"
-  baseURL: "https://twitter.com/chainchomp7"
+  baseURL: "https://twitter.com/"
   icon: "fa-twitter"
 
 reddit:
   name: "Reddit"
-  baseURL: "https://reddit.com/u/chainchomp764"
+  baseURL: "https://reddit.com/u/"
   icon: "fa-reddit"
 
 email:
@@ -28,8 +33,38 @@ email:
 
 linkedin:
   name: "LinkedIn"
-  baseURL: "https://www.linkedin.com/in/jenzel-villanueva-880b5615a/"
+  baseURL: "https://linkedin.com/in/"
   icon: "fa-linkedin"
+
+xing:
+  name: "Xing"
+  baseURL: "https://www.xing.com/profile/"
+  icon: "fa-xing"
+
+stackoverflow:
+  name: "StackOverflow"
+  baseURL: "https://stackoverflow.com/users/"
+  icon: "fa-stack-overflow"
+
+snapchat:
+  name: "Snapchat"
+  baseURL: "https://www.snapchat.com/add/"
+  icon: "fa-snapchat-ghost"
+
+instagram:
+  name: "Instagram"
+  baseURL: "https://www.instagram.com/"
+  icon: "fa-instagram"
+
+youtube:
+  name: "YouTube"
+  baseURL: "https://www.youtube.com/"
+  icon: "fa-youtube"
+
+spotify:
+  name: "Spotify"
+  baseURL: "https://open.spotify.com/user/"
+  icon: "fa-spotify"
 
 telephone:
   name: "Phone"
@@ -43,10 +78,15 @@ rss:
 
 steam:
   name: "Steam"
-  baseURL: "https://steamcommunity.com/id/chainchomp764"
+  baseURL: "https://steamcommunity.com/id/"
   icon: "fa-steam"
 
 twitch:
   name: "Twitch"
-  baseURL: "https://www.twitch.tv/chainchomp7"
+  baseURL: "https://www.twitch.tv/"
   icon: "fa-twitch"
+
+yelp:
+  name: "Yelp"
+  baseURL: "https://{{ site.author.yelp }}.yelp.com"
+  icon: "fa-yelp"

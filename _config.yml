@@ -4,7 +4,7 @@
 title: My website
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: Test Description. Website under construction.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Jenzel Villanueva
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -69,20 +69,20 @@ author:
 social-network-links:
   rss: true
   email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
-#  linkedin: daattali
+# facebook: yourname
+  github: chainchomp7
+  twitter: chainchomp7
+  reddit: chainchomp764
+  linkedin: jenzel-villanueva-880b5615a
 #  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
+#  stackoverflow: "0000000/yourname"
+#  snapchat: yourname
+#  instagram: yourname
+#  youtube: user/yourname
 #  spotify: yourname
 #  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
+  steam: chainchomp764
+  twitch: chainchomp7
 #  yelp: yourname
 
 # Select which share links to show in posts
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "chainchomp7.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
