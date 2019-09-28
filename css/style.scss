@@ -1,4 +1,12 @@
 ---
- ---
+---
 
- @import "jekyll-theme-slate";
+@import "jekyll-theme-slate";
+
+table {
+   border-collapse: collapse;
+ }
+
+ table, td, th {
+   border: 1px solid black;
+ }
