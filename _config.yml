@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: My website
+title: Jenzel Villanueva
 
 # Short description of your site
 description: Test Description. Website under construction.
@@ -21,11 +21,11 @@ description: Test Description. Website under construction.
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Resume: "JVResume.pdf"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
-
+  
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/avatar-icon.png"
@@ -67,7 +67,7 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+# rss: true
   email: "someone@example.com"
 # facebook: yourname
   github: chainchomp7
@@ -81,7 +81,7 @@ social-network-links:
 #  youtube: user/yourname
 #  spotify: yourname
 #  telephone: +14159998888
-  steam: chainchomp764
+# steam: chainchomp764
   twitch: chainchomp7
 #  yelp: yourname
 
